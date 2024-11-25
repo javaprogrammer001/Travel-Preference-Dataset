@@ -1,0 +1,301 @@
+Mode,Route,Distance (km),Duration,Cost (Rs),Reason,Gender,Age
+Car,Coimbatore to Chennai,520.5,9hr 56min,7481,"to reach soon, comfortable, safety",F,56
+Car,Erode to Chennai,412.3,7hr 36min,6382,"to reach soon, comfortable, safety",F,34
+Car,Trichy to Chennai,330.4,6hr 5min,5198,"to reach soon, comfortable, safety",F,59
+Car,Salem to Chennai,348.3,6hr 34min,4757,"to reach soon, comfortable, safety",M,44
+Bus,Coimbatore to Chennai,520.5,8hr 35min,1200,"to reach soon, comfortable",F,41
+Bus,Erode to Chennai,412.3,8hr 30min,899,"to reach soon, comfortable",M,39
+Bus,Trichy to Chennai,330.0,5hr 45min,499,"to reach soon, comfortable",F,60
+Bus,Salem to Chennai,348.3,6hr 10min,750,"to reach soon, comfortable",F,24
+Train,Coimbatore to Chennai,484.0,7hr 45min,325,"low ticket price, Safe",F,45
+Train,Erode to Chennai,350.0,6hr 30min,245,"low ticket price, Safe",F,23
+Train,Trichy to Chennai,338.0,5hr 24min,255,"low ticket price, Safe",M,32
+Train,Salem to Chennai,341.0,6hr 35min,255,"low ticket price, Safe",M,52
+Flight,Coimbatore to Chennai,420.0,1hr 5min,3289,to reach fast,F,56
+Flight,Trichy to Chennai,302.0,55min,3148,to reach fast,M,36
+Flight,Salem to Chennai,270.0,1hr,3024,to reach fast,F,31
+Car,Coimbatore to Chennai,520.5,9hr 56min,7481,"to reach soon, comfortable, safety",M,30
+Car,Erode to Chennai,412.3,7hr 36min,6382,"to reach soon, comfortable, safety",F,28
+Car,Trichy to Chennai,330.4,6hr 5min,5198,"to reach soon, comfortable, safety",M,36
+Car,Salem to Chennai,348.3,6hr 34min,4757,"to reach soon, comfortable, safety",M,58
+Bus,Coimbatore to Chennai,520.5,8hr 35min,1200,"to reach soon, comfortable",F,55
+Bus,Erode to Chennai,412.3,8hr 30min,899,"to reach soon, comfortable",M,29
+Bus,Trichy to Chennai,330.0,5hr 45min,499,"to reach soon, comfortable",F,49
+Bus,Salem to Chennai,348.3,6hr 10min,750,"to reach soon, comfortable",F,25
+Train,Coimbatore to Chennai,484.0,7hr 45min,325,"low ticket price, Safe",M,54
+Train,Erode to Chennai,350.0,6hr 30min,245,"low ticket price, Safe",M,49
+Train,Trichy to Chennai,338.0,5hr 24min,255,"low ticket price, Safe",F,43
+Train,Salem to Chennai,341.0,6hr 35min,255,"low ticket price, Safe",F,24
+Flight,Coimbatore to Chennai,420.0,1hr 5min,3289,to reach fast,M,26
+Flight,Trichy to Chennai,302.0,55min,3148,to reach fast,F,43
+Flight,Salem to Chennai,270.0,1hr,3024,to reach fast,F,24
+Car,Coimbatore to Chennai,520.5,9hr 56min,7481,"to reach soon, comfortable, safety",M,45
+Car,Erode to Chennai,412.3,7hr 36min,6382,"to reach soon, comfortable, safety",F,44
+Car,Trichy to Chennai,330.4,6hr 5min,5198,"to reach soon, comfortable, safety",M,51
+Car,Salem to Chennai,348.3,6hr 34min,4757,"to reach soon, comfortable, safety",F,33
+Bus,Coimbatore to Chennai,520.5,8hr 35min,1200,"to reach soon, comfortable",F,22
+Bus,Erode to Chennai,412.3,8hr 30min,899,"to reach soon, comfortable",F,35
+Bus,Trichy to Chennai,330.0,5hr 45min,499,"to reach soon, comfortable",F,23
+Bus,Salem to Chennai,348.3,6hr 10min,750,"to reach soon, comfortable",F,50
+Train,Coimbatore to Chennai,484.0,7hr 45min,325,"low ticket price, Safe",F,50
+Train,Erode to Chennai,350.0,6hr 30min,245,"low ticket price, Safe",F,55
+Train,Trichy to Chennai,338.0,5hr 24min,255,"low ticket price, Safe",F,55
+Train,Salem to Chennai,341.0,6hr 35min,255,"low ticket price, Safe",F,24
+Flight,Coimbatore to Chennai,420.0,1hr 5min,3289,to reach fast,M,24
+Flight,Trichy to Chennai,302.0,55min,3148,to reach fast,F,41
+Flight,Salem to Chennai,270.0,1hr,3024,to reach fast,M,48
+Car,Coimbatore to Chennai,520.5,9hr 56min,7481,"to reach soon, comfortable, safety",M,43
+Car,Erode to Chennai,412.3,7hr 36min,6382,"to reach soon, comfortable, safety",M,56
+Car,Trichy to Chennai,330.4,6hr 5min,5198,"to reach soon, comfortable, safety",M,46
+Car,Salem to Chennai,348.3,6hr 34min,4757,"to reach soon, comfortable, safety",M,22
+Bus,Coimbatore to Chennai,520.5,8hr 35min,1200,"to reach soon, comfortable",M,26
+Bus,Erode to Chennai,412.3,8hr 30min,899,"to reach soon, comfortable",F,31
+Bus,Trichy to Chennai,330.0,5hr 45min,499,"to reach soon, comfortable",M,57
+Bus,Salem to Chennai,348.3,6hr 10min,750,"to reach soon, comfortable",M,59
+Train,Coimbatore to Chennai,484.0,7hr 45min,325,"low ticket price, Safe",M,60
+Train,Erode to Chennai,350.0,6hr 30min,245,"low ticket price, Safe",F,44
+Train,Trichy to Chennai,338.0,5hr 24min,255,"low ticket price, Safe",F,46
+Train,Salem to Chennai,341.0,6hr 35min,255,"low ticket price, Safe",M,26
+Flight,Coimbatore to Chennai,420.0,1hr 5min,3289,to reach fast,M,54
+Flight,Trichy to Chennai,302.0,55min,3148,to reach fast,M,48
+Flight,Salem to Chennai,270.0,1hr,3024,to reach fast,M,46
+Car,Coimbatore to Chennai,520.5,9hr 56min,7481,"to reach soon, comfortable, safety",F,40
+Car,Erode to Chennai,412.3,7hr 36min,6382,"to reach soon, comfortable, safety",M,43
+Car,Trichy to Chennai,330.4,6hr 5min,5198,"to reach soon, comfortable, safety",F,60
+Car,Salem to Chennai,348.3,6hr 34min,4757,"to reach soon, comfortable, safety",F,54
+Bus,Coimbatore to Chennai,520.5,8hr 35min,1200,"to reach soon, comfortable",M,40
+Bus,Erode to Chennai,412.3,8hr 30min,899,"to reach soon, comfortable",F,60
+Bus,Trichy to Chennai,330.0,5hr 45min,499,"to reach soon, comfortable",M,42
+Bus,Salem to Chennai,348.3,6hr 10min,750,"to reach soon, comfortable",F,26
+Train,Coimbatore to Chennai,484.0,7hr 45min,325,"low ticket price, Safe",F,26
+Train,Erode to Chennai,350.0,6hr 30min,245,"low ticket price, Safe",M,26
+Train,Trichy to Chennai,338.0,5hr 24min,255,"low ticket price, Safe",F,47
+Train,Salem to Chennai,341.0,6hr 35min,255,"low ticket price, Safe",M,51
+Flight,Coimbatore to Chennai,420.0,1hr 5min,3289,to reach fast,M,55
+Flight,Trichy to Chennai,302.0,55min,3148,to reach fast,M,33
+Flight,Salem to Chennai,270.0,1hr,3024,to reach fast,M,54
+Car,Coimbatore to Chennai,520.5,9hr 56min,7481,"to reach soon, comfortable, safety",M,23
+Car,Erode to Chennai,412.3,7hr 36min,6382,"to reach soon, comfortable, safety",M,28
+Car,Trichy to Chennai,330.4,6hr 5min,5198,"to reach soon, comfortable, safety",M,41
+Car,Salem to Chennai,348.3,6hr 34min,4757,"to reach soon, comfortable, safety",F,32
+Bus,Coimbatore to Chennai,520.5,8hr 35min,1200,"to reach soon, comfortable",F,25
+Bus,Erode to Chennai,412.3,8hr 30min,899,"to reach soon, comfortable",F,28
+Bus,Trichy to Chennai,330.0,5hr 45min,499,"to reach soon, comfortable",F,26
+Bus,Salem to Chennai,348.3,6hr 10min,750,"to reach soon, comfortable",M,53
+Train,Coimbatore to Chennai,484.0,7hr 45min,325,"low ticket price, Safe",M,27
+Train,Erode to Chennai,350.0,6hr 30min,245,"low ticket price, Safe",F,50
+Train,Trichy to Chennai,338.0,5hr 24min,255,"low ticket price, Safe",F,55
+Train,Salem to Chennai,341.0,6hr 35min,255,"low ticket price, Safe",F,39
+Flight,Coimbatore to Chennai,420.0,1hr 5min,3289,to reach fast,F,42
+Flight,Trichy to Chennai,302.0,55min,3148,to reach fast,M,34
+Flight,Salem to Chennai,270.0,1hr,3024,to reach fast,F,52
+Car,Coimbatore to Chennai,520.5,9hr 56min,7481,"to reach soon, comfortable, safety",M,37
+Car,Erode to Chennai,412.3,7hr 36min,6382,"to reach soon, comfortable, safety",F,32
+Car,Trichy to Chennai,330.4,6hr 5min,5198,"to reach soon, comfortable, safety",M,59
+Car,Salem to Chennai,348.3,6hr 34min,4757,"to reach soon, comfortable, safety",M,23
+Bus,Coimbatore to Chennai,520.5,8hr 35min,1200,"to reach soon, comfortable",M,38
+Bus,Erode to Chennai,412.3,8hr 30min,899,"to reach soon, comfortable",M,28
+Bus,Trichy to Chennai,330.0,5hr 45min,499,"to reach soon, comfortable",M,40
+Bus,Salem to Chennai,348.3,6hr 10min,750,"to reach soon, comfortable",F,44
+Train,Coimbatore to Chennai,484.0,7hr 45min,325,"low ticket price, Safe",M,50
+Train,Erode to Chennai,350.0,6hr 30min,245,"low ticket price, Safe",F,25
+Train,Trichy to Chennai,338.0,5hr 24min,255,"low ticket price, Safe",F,40
+Train,Salem to Chennai,341.0,6hr 35min,255,"low ticket price, Safe",M,55
+Flight,Coimbatore to Chennai,420.0,1hr 5min,3289,to reach fast,F,51
+Flight,Trichy to Chennai,302.0,55min,3148,to reach fast,M,60
+Flight,Salem to Chennai,270.0,1hr,3024,to reach fast,F,30
+Car,Coimbatore to Chennai,520.5,9hr 56min,7481,"to reach soon, comfortable, safety",M,53
+Car,Erode to Chennai,412.3,7hr 36min,6382,"to reach soon, comfortable, safety",F,35
+Car,Trichy to Chennai,330.4,6hr 5min,5198,"to reach soon, comfortable, safety",M,41
+Car,Salem to Chennai,348.3,6hr 34min,4757,"to reach soon, comfortable, safety",F,30
+Bus,Coimbatore to Chennai,520.5,8hr 35min,1200,"to reach soon, comfortable",M,25
+Bus,Erode to Chennai,412.3,8hr 30min,899,"to reach soon, comfortable",M,60
+Bus,Trichy to Chennai,330.0,5hr 45min,499,"to reach soon, comfortable",M,46
+Bus,Salem to Chennai,348.3,6hr 10min,750,"to reach soon, comfortable",M,27
+Train,Coimbatore to Chennai,484.0,7hr 45min,325,"low ticket price, Safe",M,52
+Train,Erode to Chennai,350.0,6hr 30min,245,"low ticket price, Safe",M,59
+Train,Trichy to Chennai,338.0,5hr 24min,255,"low ticket price, Safe",F,41
+Train,Salem to Chennai,341.0,6hr 35min,255,"low ticket price, Safe",F,50
+Flight,Coimbatore to Chennai,420.0,1hr 5min,3289,to reach fast,F,36
+Flight,Trichy to Chennai,302.0,55min,3148,to reach fast,M,36
+Flight,Salem to Chennai,270.0,1hr,3024,to reach fast,M,46
+Car,Coimbatore to Chennai,520.5,9hr 56min,7481,"to reach soon, comfortable, safety",F,42
+Car,Erode to Chennai,412.3,7hr 36min,6382,"to reach soon, comfortable, safety",F,40
+Car,Trichy to Chennai,330.4,6hr 5min,5198,"to reach soon, comfortable, safety",F,42
+Car,Salem to Chennai,348.3,6hr 34min,4757,"to reach soon, comfortable, safety",M,55
+Bus,Coimbatore to Chennai,520.5,8hr 35min,1200,"to reach soon, comfortable",F,46
+Bus,Erode to Chennai,412.3,8hr 30min,899,"to reach soon, comfortable",M,49
+Bus,Trichy to Chennai,330.0,5hr 45min,499,"to reach soon, comfortable",F,59
+Bus,Salem to Chennai,348.3,6hr 10min,750,"to reach soon, comfortable",F,56
+Train,Coimbatore to Chennai,484.0,7hr 45min,325,"low ticket price, Safe",F,27
+Train,Erode to Chennai,350.0,6hr 30min,245,"low ticket price, Safe",F,23
+Train,Trichy to Chennai,338.0,5hr 24min,255,"low ticket price, Safe",M,36
+Train,Salem to Chennai,341.0,6hr 35min,255,"low ticket price, Safe",M,31
+Flight,Coimbatore to Chennai,420.0,1hr 5min,3289,to reach fast,F,34
+Flight,Trichy to Chennai,302.0,55min,3148,to reach fast,M,46
+Flight,Salem to Chennai,270.0,1hr,3024,to reach fast,M,58
+Car,Coimbatore to Chennai,520.5,9hr 56min,7481,"to reach soon, comfortable, safety",M,58
+Car,Erode to Chennai,412.3,7hr 36min,6382,"to reach soon, comfortable, safety",F,36
+Car,Trichy to Chennai,330.4,6hr 5min,5198,"to reach soon, comfortable, safety",F,22
+Car,Salem to Chennai,348.3,6hr 34min,4757,"to reach soon, comfortable, safety",M,27
+Bus,Coimbatore to Chennai,520.5,8hr 35min,1200,"to reach soon, comfortable",F,57
+Bus,Erode to Chennai,412.3,8hr 30min,899,"to reach soon, comfortable",M,28
+Bus,Trichy to Chennai,330.0,5hr 45min,499,"to reach soon, comfortable",F,37
+Bus,Salem to Chennai,348.3,6hr 10min,750,"to reach soon, comfortable",F,39
+Train,Coimbatore to Chennai,484.0,7hr 45min,325,"low ticket price, Safe",M,26
+Train,Erode to Chennai,350.0,6hr 30min,245,"low ticket price, Safe",M,59
+Train,Trichy to Chennai,338.0,5hr 24min,255,"low ticket price, Safe",M,36
+Train,Salem to Chennai,341.0,6hr 35min,255,"low ticket price, Safe",F,38
+Flight,Coimbatore to Chennai,420.0,1hr 5min,3289,to reach fast,M,32
+Flight,Trichy to Chennai,302.0,55min,3148,to reach fast,M,41
+Flight,Salem to Chennai,270.0,1hr,3024,to reach fast,F,44
+Car,Coimbatore to Chennai,520.5,9hr 56min,7481,"to reach soon, comfortable, safety",M,44
+Car,Erode to Chennai,412.3,7hr 36min,6382,"to reach soon, comfortable, safety",M,54
+Car,Trichy to Chennai,330.4,6hr 5min,5198,"to reach soon, comfortable, safety",F,57
+Car,Salem to Chennai,348.3,6hr 34min,4757,"to reach soon, comfortable, safety",M,26
+Bus,Coimbatore to Chennai,520.5,8hr 35min,1200,"to reach soon, comfortable",F,54
+Bus,Erode to Chennai,412.3,8hr 30min,899,"to reach soon, comfortable",M,27
+Bus,Trichy to Chennai,330.0,5hr 45min,499,"to reach soon, comfortable",M,30
+Bus,Salem to Chennai,348.3,6hr 10min,750,"to reach soon, comfortable",M,58
+Train,Coimbatore to Chennai,484.0,7hr 45min,325,"low ticket price, Safe",F,27
+Train,Erode to Chennai,350.0,6hr 30min,245,"low ticket price, Safe",M,29
+Train,Trichy to Chennai,338.0,5hr 24min,255,"low ticket price, Safe",F,30
+Train,Salem to Chennai,341.0,6hr 35min,255,"low ticket price, Safe",M,23
+Flight,Coimbatore to Chennai,420.0,1hr 5min,3289,to reach fast,M,32
+Flight,Trichy to Chennai,302.0,55min,3148,to reach fast,F,31
+Flight,Salem to Chennai,270.0,1hr,3024,to reach fast,M,31
+Car,Coimbatore to Chennai,520.5,9hr 56min,7481,"to reach soon, comfortable, safety",F,45
+Car,Erode to Chennai,412.3,7hr 36min,6382,"to reach soon, comfortable, safety",F,60
+Car,Trichy to Chennai,330.4,6hr 5min,5198,"to reach soon, comfortable, safety",M,57
+Car,Salem to Chennai,348.3,6hr 34min,4757,"to reach soon, comfortable, safety",M,59
+Bus,Coimbatore to Chennai,520.5,8hr 35min,1200,"to reach soon, comfortable",M,25
+Bus,Erode to Chennai,412.3,8hr 30min,899,"to reach soon, comfortable",F,39
+Bus,Trichy to Chennai,330.0,5hr 45min,499,"to reach soon, comfortable",F,34
+Bus,Salem to Chennai,348.3,6hr 10min,750,"to reach soon, comfortable",M,30
+Train,Coimbatore to Chennai,484.0,7hr 45min,325,"low ticket price, Safe",F,50
+Train,Erode to Chennai,350.0,6hr 30min,245,"low ticket price, Safe",F,24
+Train,Trichy to Chennai,338.0,5hr 24min,255,"low ticket price, Safe",M,53
+Train,Salem to Chennai,341.0,6hr 35min,255,"low ticket price, Safe",M,43
+Flight,Coimbatore to Chennai,420.0,1hr 5min,3289,to reach fast,M,43
+Flight,Trichy to Chennai,302.0,55min,3148,to reach fast,M,48
+Flight,Salem to Chennai,270.0,1hr,3024,to reach fast,F,38
+Car,Coimbatore to Chennai,520.5,9hr 56min,7481,"to reach soon, comfortable, safety",F,34
+Car,Erode to Chennai,412.3,7hr 36min,6382,"to reach soon, comfortable, safety",M,54
+Car,Trichy to Chennai,330.4,6hr 5min,5198,"to reach soon, comfortable, safety",M,60
+Car,Salem to Chennai,348.3,6hr 34min,4757,"to reach soon, comfortable, safety",F,53
+Bus,Coimbatore to Chennai,520.5,8hr 35min,1200,"to reach soon, comfortable",F,52
+Bus,Erode to Chennai,412.3,8hr 30min,899,"to reach soon, comfortable",M,31
+Bus,Trichy to Chennai,330.0,5hr 45min,499,"to reach soon, comfortable",F,33
+Bus,Salem to Chennai,348.3,6hr 10min,750,"to reach soon, comfortable",F,41
+Train,Coimbatore to Chennai,484.0,7hr 45min,325,"low ticket price, Safe",M,46
+Train,Erode to Chennai,350.0,6hr 30min,245,"low ticket price, Safe",F,46
+Train,Trichy to Chennai,338.0,5hr 24min,255,"low ticket price, Safe",M,47
+Train,Salem to Chennai,341.0,6hr 35min,255,"low ticket price, Safe",F,27
+Flight,Coimbatore to Chennai,420.0,1hr 5min,3289,to reach fast,M,51
+Flight,Trichy to Chennai,302.0,55min,3148,to reach fast,F,23
+Flight,Salem to Chennai,270.0,1hr,3024,to reach fast,M,44
+Car,Coimbatore to Chennai,520.5,9hr 56min,7481,"to reach soon, comfortable, safety",F,56
+Car,Erode to Chennai,412.3,7hr 36min,6382,"to reach soon, comfortable, safety",M,25
+Car,Trichy to Chennai,330.4,6hr 5min,5198,"to reach soon, comfortable, safety",F,38
+Car,Salem to Chennai,348.3,6hr 34min,4757,"to reach soon, comfortable, safety",F,58
+Bus,Coimbatore to Chennai,520.5,8hr 35min,1200,"to reach soon, comfortable",M,54
+Bus,Erode to Chennai,412.3,8hr 30min,899,"to reach soon, comfortable",F,31
+Bus,Trichy to Chennai,330.0,5hr 45min,499,"to reach soon, comfortable",F,29
+Bus,Salem to Chennai,348.3,6hr 10min,750,"to reach soon, comfortable",F,45
+Train,Coimbatore to Chennai,484.0,7hr 45min,325,"low ticket price, Safe",F,30
+Train,Erode to Chennai,350.0,6hr 30min,245,"low ticket price, Safe",F,30
+Train,Trichy to Chennai,338.0,5hr 24min,255,"low ticket price, Safe",F,48
+Train,Salem to Chennai,341.0,6hr 35min,255,"low ticket price, Safe",M,56
+Flight,Coimbatore to Chennai,420.0,1hr 5min,3289,to reach fast,F,23
+Flight,Trichy to Chennai,302.0,55min,3148,to reach fast,M,28
+Flight,Salem to Chennai,270.0,1hr,3024,to reach fast,F,49
+Car,Coimbatore to Chennai,520.5,9hr 56min,7481,"to reach soon, comfortable, safety",M,36
+Car,Erode to Chennai,412.3,7hr 36min,6382,"to reach soon, comfortable, safety",F,39
+Car,Trichy to Chennai,330.4,6hr 5min,5198,"to reach soon, comfortable, safety",F,24
+Car,Salem to Chennai,348.3,6hr 34min,4757,"to reach soon, comfortable, safety",M,57
+Bus,Coimbatore to Chennai,520.5,8hr 35min,1200,"to reach soon, comfortable",F,36
+Bus,Erode to Chennai,412.3,8hr 30min,899,"to reach soon, comfortable",F,32
+Bus,Trichy to Chennai,330.0,5hr 45min,499,"to reach soon, comfortable",M,54
+Bus,Salem to Chennai,348.3,6hr 10min,750,"to reach soon, comfortable",M,28
+Train,Coimbatore to Chennai,484.0,7hr 45min,325,"low ticket price, Safe",M,48
+Train,Erode to Chennai,350.0,6hr 30min,245,"low ticket price, Safe",M,34
+Train,Trichy to Chennai,338.0,5hr 24min,255,"low ticket price, Safe",F,54
+Train,Salem to Chennai,341.0,6hr 35min,255,"low ticket price, Safe",F,35
+Flight,Coimbatore to Chennai,420.0,1hr 5min,3289,to reach fast,M,53
+Flight,Trichy to Chennai,302.0,55min,3148,to reach fast,F,38
+Flight,Salem to Chennai,270.0,1hr,3024,to reach fast,F,36
+Car,Coimbatore to Chennai,520.5,9hr 56min,7481,"to reach soon, comfortable, safety",M,31
+Car,Erode to Chennai,412.3,7hr 36min,6382,"to reach soon, comfortable, safety",F,30
+Car,Trichy to Chennai,330.4,6hr 5min,5198,"to reach soon, comfortable, safety",M,53
+Car,Salem to Chennai,348.3,6hr 34min,4757,"to reach soon, comfortable, safety",F,51
+Bus,Coimbatore to Chennai,520.5,8hr 35min,1200,"to reach soon, comfortable",F,37
+Bus,Erode to Chennai,412.3,8hr 30min,899,"to reach soon, comfortable",F,44
+Bus,Trichy to Chennai,330.0,5hr 45min,499,"to reach soon, comfortable",M,45
+Bus,Salem to Chennai,348.3,6hr 10min,750,"to reach soon, comfortable",M,43
+Train,Coimbatore to Chennai,484.0,7hr 45min,325,"low ticket price, Safe",F,25
+Train,Erode to Chennai,350.0,6hr 30min,245,"low ticket price, Safe",F,28
+Train,Trichy to Chennai,338.0,5hr 24min,255,"low ticket price, Safe",F,50
+Train,Salem to Chennai,341.0,6hr 35min,255,"low ticket price, Safe",M,23
+Flight,Coimbatore to Chennai,420.0,1hr 5min,3289,to reach fast,M,24
+Flight,Trichy to Chennai,302.0,55min,3148,to reach fast,F,42
+Flight,Salem to Chennai,270.0,1hr,3024,to reach fast,F,31
+Car,Coimbatore to Chennai,520.5,9hr 56min,7481,"to reach soon, comfortable, safety",F,44
+Car,Erode to Chennai,412.3,7hr 36min,6382,"to reach soon, comfortable, safety",M,30
+Car,Trichy to Chennai,330.4,6hr 5min,5198,"to reach soon, comfortable, safety",F,27
+Car,Salem to Chennai,348.3,6hr 34min,4757,"to reach soon, comfortable, safety",F,31
+Bus,Coimbatore to Chennai,520.5,8hr 35min,1200,"to reach soon, comfortable",M,58
+Bus,Erode to Chennai,412.3,8hr 30min,899,"to reach soon, comfortable",M,28
+Bus,Trichy to Chennai,330.0,5hr 45min,499,"to reach soon, comfortable",M,26
+Bus,Salem to Chennai,348.3,6hr 10min,750,"to reach soon, comfortable",F,51
+Train,Coimbatore to Chennai,484.0,7hr 45min,325,"low ticket price, Safe",F,35
+Train,Erode to Chennai,350.0,6hr 30min,245,"low ticket price, Safe",M,56
+Train,Trichy to Chennai,338.0,5hr 24min,255,"low ticket price, Safe",M,27
+Train,Salem to Chennai,341.0,6hr 35min,255,"low ticket price, Safe",F,51
+Flight,Coimbatore to Chennai,420.0,1hr 5min,3289,to reach fast,M,24
+Flight,Trichy to Chennai,302.0,55min,3148,to reach fast,M,41
+Flight,Salem to Chennai,270.0,1hr,3024,to reach fast,M,41
+Car,Coimbatore to Chennai,520.5,9hr 56min,7481,"to reach soon, comfortable, safety",F,27
+Car,Erode to Chennai,412.3,7hr 36min,6382,"to reach soon, comfortable, safety",F,34
+Car,Trichy to Chennai,330.4,6hr 5min,5198,"to reach soon, comfortable, safety",F,47
+Car,Salem to Chennai,348.3,6hr 34min,4757,"to reach soon, comfortable, safety",F,36
+Bus,Coimbatore to Chennai,520.5,8hr 35min,1200,"to reach soon, comfortable",M,26
+Bus,Erode to Chennai,412.3,8hr 30min,899,"to reach soon, comfortable",M,28
+Bus,Trichy to Chennai,330.0,5hr 45min,499,"to reach soon, comfortable",F,46
+Bus,Salem to Chennai,348.3,6hr 10min,750,"to reach soon, comfortable",F,25
+Train,Coimbatore to Chennai,484.0,7hr 45min,325,"low ticket price, Safe",M,41
+Train,Erode to Chennai,350.0,6hr 30min,245,"low ticket price, Safe",M,49
+Train,Trichy to Chennai,338.0,5hr 24min,255,"low ticket price, Safe",F,31
+Train,Salem to Chennai,341.0,6hr 35min,255,"low ticket price, Safe",F,37
+Flight,Coimbatore to Chennai,420.0,1hr 5min,3289,to reach fast,M,38
+Flight,Trichy to Chennai,302.0,55min,3148,to reach fast,M,35
+Flight,Salem to Chennai,270.0,1hr,3024,to reach fast,F,25
+Car,Coimbatore to Chennai,520.5,9hr 56min,7481,"to reach soon, comfortable, safety",F,25
+Car,Erode to Chennai,412.3,7hr 36min,6382,"to reach soon, comfortable, safety",M,59
+Car,Trichy to Chennai,330.4,6hr 5min,5198,"to reach soon, comfortable, safety",M,23
+Car,Salem to Chennai,348.3,6hr 34min,4757,"to reach soon, comfortable, safety",M,60
+Bus,Coimbatore to Chennai,520.5,8hr 35min,1200,"to reach soon, comfortable",F,59
+Bus,Erode to Chennai,412.3,8hr 30min,899,"to reach soon, comfortable",M,53
+Bus,Trichy to Chennai,330.0,5hr 45min,499,"to reach soon, comfortable",F,36
+Bus,Salem to Chennai,348.3,6hr 10min,750,"to reach soon, comfortable",M,24
+Train,Coimbatore to Chennai,484.0,7hr 45min,325,"low ticket price, Safe",M,54
+Train,Erode to Chennai,350.0,6hr 30min,245,"low ticket price, Safe",M,36
+Train,Trichy to Chennai,338.0,5hr 24min,255,"low ticket price, Safe",F,37
+Train,Salem to Chennai,341.0,6hr 35min,255,"low ticket price, Safe",F,30
+Flight,Coimbatore to Chennai,420.0,1hr 5min,3289,to reach fast,F,53
+Flight,Trichy to Chennai,302.0,55min,3148,to reach fast,M,57
+Flight,Salem to Chennai,270.0,1hr,3024,to reach fast,M,28
+Car,Coimbatore to Chennai,520.5,9hr 56min,7481,"to reach soon, comfortable, safety",F,42
+Car,Erode to Chennai,412.3,7hr 36min,6382,"to reach soon, comfortable, safety",M,27
+Car,Trichy to Chennai,330.4,6hr 5min,5198,"to reach soon, comfortable, safety",M,23
+Car,Salem to Chennai,348.3,6hr 34min,4757,"to reach soon, comfortable, safety",F,52
+Bus,Coimbatore to Chennai,520.5,8hr 35min,1200,"to reach soon, comfortable",F,56
+Bus,Erode to Chennai,412.3,8hr 30min,899,"to reach soon, comfortable",F,53
+Bus,Trichy to Chennai,330.0,5hr 45min,499,"to reach soon, comfortable",M,52
+Bus,Salem to Chennai,348.3,6hr 10min,750,"to reach soon, comfortable",M,32
+Train,Coimbatore to Chennai,484.0,7hr 45min,325,"low ticket price, Safe",M,29
+Train,Erode to Chennai,350.0,6hr 30min,245,"low ticket price, Safe",M,25
+Train,Trichy to Chennai,338.0,5hr 24min,255,"low ticket price, Safe",M,35
+Train,Salem to Chennai,341.0,6hr 35min,255,"low ticket price, Safe",M,39
+Flight,Coimbatore to Chennai,420.0,1hr 5min,3289,to reach fast,M,42
+Flight,Trichy to Chennai,302.0,55min,3148,to reach fast,M,36
+Flight,Salem to Chennai,270.0,1hr,3024,to reach fast,F,27
